@@ -10,6 +10,6 @@ This project uses Python's `beautifulsoup4` package, `pandas` for data processin
 
 ## Output
 
-The output of this email is an email containing CPC report of the campaign with plot attached.
+The output of this project is a Flask-based dashboard containing the plot of the 2019 exchange rate, followed by a table of the daily exchange rates.
 
 ![Dashboard](https://github.com/aerlaut/capstone-p4da-beautifulsoup/blob/master/front.png?raw=true)
